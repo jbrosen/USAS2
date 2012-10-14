@@ -1,0 +1,31 @@
+# begin reportfile
+# hostname: JacobsHP
+# begin parameters
+rDebug=0
+seed=1346162092090
+stopT=40001
+adultProbGA=0.15
+adultProbL1=0.15
+adultProbL2=0.2
+blackBirthRate=0.0018
+showEnglishFreqGraph=0
+initialAgentsFileName=
+initialParametersFileName=
+immigrationPerYear=8
+latinoBirthRate=1.0E-4
+outputDirName=./
+reportFrequency=1
+reportFileName=report
+runNumber=0
+randomWordFlow=0
+saveRunEndState=0
+whiteBirthRate=2.0E-4
+whiteFlightPerYear=6
+wordThreshold=10
+wordFlow=6
+# end parameters
+#                                    Win10   
+#       Num   Num  avg    AveDist   AveDist    Avg      Avg
+# time  Ants  Die  AntX   toSource  toSource  RandMov  PrDieC
+# hostname: JacobsHP
+# end report file

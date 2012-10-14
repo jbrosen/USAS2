@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reportfile>
+<parameters>
+	<rDebug>0</rDebug>
+	<seed>1346162092090</seed>
+	<stopT>40001</stopT>
+	<adultProbGA>0.15</adultProbGA>
+	<adultProbL1>0.15</adultProbL1>
+	<adultProbL2>0.2</adultProbL2>
+	<blackBirthRate>0.0018</blackBirthRate>
+	<showEnglishFreqGraph>0</showEnglishFreqGraph>
+	<initialAgentsFileName></initialAgentsFileName>
+	<initialParametersFileName></initialParametersFileName>
+	<immigrationPerYear>8</immigrationPerYear>
+	<latinoBirthRate>1.0E-4</latinoBirthRate>
+	<outputDirName>./</outputDirName>
+	<reportFrequency>1</reportFrequency>
+	<reportFileName>report</reportFileName>
+	<runNumber>0</runNumber>
+	<randomWordFlow>0</randomWordFlow>
+	<saveRunEndState>0</saveRunEndState>
+	<whiteBirthRate>2.0E-4</whiteBirthRate>
+	<whiteFlightPerYear>6</whiteFlightPerYear>
+	<wordThreshold>10</wordThreshold>
+	<wordFlow>6</wordFlow>
+</parameters>
+</reportfile>
